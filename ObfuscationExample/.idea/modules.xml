@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ObfuscationExample.iml" filepath="$PROJECT_DIR$/ObfuscationExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/noproguardruleslibrary/noproguardruleslibrary.iml" filepath="$PROJECT_DIR$/noproguardruleslibrary/noproguardruleslibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/obfuscatedlibrary/obfuscatedlibrary.iml" filepath="$PROJECT_DIR$/obfuscatedlibrary/obfuscatedlibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simplelibrary/simplelibrary.iml" filepath="$PROJECT_DIR$/simplelibrary/simplelibrary.iml" />
+    </modules>
+  </component>
+</project>
